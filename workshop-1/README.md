@@ -812,6 +812,6 @@ As with the monolith, you'll be using [Fargate](https://aws.amazon.com/fargate/)
 ### Checkpoint:
 Congratulations, you've successfully rolled out the like microservice from the monolith.  If you have time, try repeating this lab to break out the adoption microservice.
 
-## Continue to Lab 2
-* **Lab 2:** [Deploy the container using AWS Fargate](#lab-2---deploy-your-container-using-ecrecs)
+## Continue to Workshop 2
+* **Lab 2:** [Mythical Mysfits: DevSecOps with Docker and AWS Fargate](#lab-2---deploy-your-container-using-ecrecs)
 
