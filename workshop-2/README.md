@@ -30,7 +30,6 @@ These labs are designed to be completed in sequence, and the full set of instruc
 * **[Lab 2](Lab-2):** Offloading Builds to AWS CodeBuild
 * **[Lab 3](Lab-3):** Automating End to End Deployments for AWS Fargate
 * **[Lab 4](Lab-4):** Moar Security! Implementing Container Image scanning
-* **Workshop Cleanup** [Cleanup working environment](#workshop-cleanup)
 
 ### Conventions:
 Throughout this workshop, we will provide commands for you to run in the terminal.  These commands will look like this:
