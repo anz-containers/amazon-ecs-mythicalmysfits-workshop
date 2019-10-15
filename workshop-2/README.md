@@ -25,7 +25,7 @@ The tools that we use in this workshop are part of the AWS Dev Tools stack, but 
 
 These labs are designed to be completed in sequence, and the full set of instructions are documented below.  Read and follow along to complete the labs.  If you're at a live AWS event, the workshop attendants will give you a high level run down of the labs and help answer any questions.  Don't worry if you get stuck, we provide hints along the way.  
 
-* **[Lab 0](Lab-0):** Deploy Existing Mythical Stack
+* **[Lab 0](Lab-0):** Build the environment
 * **[Lab 1](Lab-1):** Integrating Security Right from the Get Go
 * **[Lab 2](Lab-2):** Offloading Builds to AWS CodeBuild
 * **[Lab 3](Lab-3):** Automating End to End Deployments for AWS Fargate
