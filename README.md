@@ -12,12 +12,7 @@ We've just had a surge of new mysfits arrive at our door with nowhere else to go
 
 That's why we've hired you to be our first Full Stack Engineer. We need a more scalable way to show off our inventory of mysfits and let families adopt them. We'd like you to build the first Mythical Mysfits adoption website to help introduce these lovable, magical, often mischievous creatures to the world!
 
-### Requirements:
-* AWS account - if you don't have one, it's easy and free to [create one](https://aws.amazon.com/)
-* AWS IAM account with elevated privileges allowing you to interact with various AWS Services
-* Familiarity with Python, vim/emacs/nano, [Docker](https://www.docker.com/), AWS and microservices - not required but a bonus
-
-### Learning Paths
+### Details
 
 This is a 2-part workshop series
 
