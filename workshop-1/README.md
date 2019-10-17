@@ -365,9 +365,7 @@ The Mythical Mysfits adoption agency infrastructure has always been running dire
 
     ![ECR repositories](images/01-ecr-repo.png)
 
-    Click on the repository name for the monolith, and note down the Repository URI (you will use this value again in the next lab):
-
-    ![ECR monolith repo](images/01-ecr-repo-uri.png)
+    Click on the _copy_ icon next to the URI for the **Mono** repository (you will use this value again in the next lab).
 
     *Note: Your repository URI will be unique.*
 
@@ -627,7 +625,7 @@ As with the monolith, you'll be using [Fargate](https://aws.amazon.com/fargate/)
 
 4. Now, build the like service and push it to ECR.
 
-    To find the like-service ECR repo URI, navigate to [Repositories](https://console.aws.amazon.com/ecs/home#/repositories) in the ECS dashboard, and find the repo named like <code><b><i>STACK_NAME</i></b>-like-XXX</code>.  Click on the like-service repository and copy the repository URI.
+    To find the like-service ECR repo URI, navigate to [Repositories](https://console.aws.amazon.com/ecs/home#/repositories) in the ECS dashboard, and find the repo named like <code><b><i>STACK_NAME</i></b>-like-XXX</code>.  Click on the _copy_ icon next to the URI for the **Like** repository to copy the repository URI.
 
     ![Getting Like Service Repo](images/04-ecr-like.png)
 
